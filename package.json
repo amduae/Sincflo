@@ -9,16 +9,22 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@plasmicapp/loader-nextjs": "^1.0.406",
+    "@supabase/ssr": "^0.4.1",
+    "cookie": "^1.0.1",
+    "next": "^14.2.17",
+    "plasmic-supabase": "^0.4.1",
     "react": "^18",
     "react-dom": "^18",
-    "next": "14.2.16"
+    "uuid": "^11.0.3"
   },
   "devDependencies": {
-    "typescript": "^5",
+    "@types/cookie": "^0.6.0",
     "@types/node": "^20",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "eslint": "^8",
-    "eslint-config-next": "14.2.16"
+    "eslint-config-next": "14.2.16",
+    "typescript": "^5"
   }
 }
