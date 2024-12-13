@@ -13,8 +13,8 @@ import {
 export const PLASMIC = initPlasmicLoader({
   projects: [
     {
-      id: "41NvdKCbiU3b8UgK7gZ5t7",
-      token: "bwVL2SSc318BLHl6aKxg0pm4OLxD8K5sMJi9b9KKZreS87OmYzdDMixued2fk8jBnRjYRpiH0DpZypqDdK5A",
+      id: "YourProjectID",
+      token: "YourPlasmicToken",
     },
   ],
 
